@@ -1,0 +1,49 @@
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+!*.tfvars.example
+.terraform.lock.hcl
+tfplan
+
+# Ansible
+*.retry
+vault_password
+*.vault
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+dist/
+build/
+
+# Secrets & Keys
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+kubeconfig
+kubeconfig.yaml
+.kube/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Editor
+.vscode/
+.idea/
+*.iml
