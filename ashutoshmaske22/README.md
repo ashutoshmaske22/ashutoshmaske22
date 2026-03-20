@@ -1,13 +1,20 @@
 <div align="center">
 
-# Hey, I'm Ashutosh Maske 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+Ashutosh+Maske+👋;DevOps+%7C+LLM+Pipelines+%7C+Cloud+Infra" alt="Typing SVG" />
 
-### DevOps Engineer · Roche · Ex-Colpari GmbH 🇩🇪 · Ex-Accenture
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashutoshmaske-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshmaske)
-[![Email](https://img.shields.io/badge/Email-ashutoshmaske1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshmaske1@gmail.com)
-[![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![Azure](https://img.shields.io/badge/Azure-Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
+---
+
+<div align="center">
+
+**DevOps Engineer · Roche Pharma 🏥 · Ex-Colpari GmbH · Ex-Accenture**
+
+*"Automate everything that can be automated. Monitor everything that runs. Ship fast, safely."*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashutosh%20Maske-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutoshmaske)
+[![GitHub](https://img.shields.io/badge/GitHub-ashutoshmaske22-181717?style=flat&logo=github&logoColor=white)](https://github.com/ashutoshmaske22)
+[![Email](https://img.shields.io/badge/Email-ashutosh.maske.de%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ashutosh.maske.de@gmail.com)
 
 </div>
 
@@ -15,49 +22,78 @@
 
 ## 🧑‍💻 About Me
 
-- 🏥 Currently **DevOps Engineer @ Roche** — LLM automation & GitLab pipelines for Data Store platform
-- 🇩🇪 Previously **DevOps & IT Infra Jr Manager @ Colpari GmbH**, Leipzig — cut deployment time by **70%**
-- 🏢 Ex-**Accenture** — cloud infra for **Takeda Pharmaceuticals** across AWS + Azure
-- 🎓 M.Sc. Technology & Innovation Management — **Hochschule Harz, Germany**
-- 🌍 Based in **Pune, India**
-- 💬 Ask me about **Kubernetes, Terraform, Ansible, GitLab CI, Python automation**
+I'm a DevOps Engineer currently building automation, LLM pipelines and cloud-native infrastructure at **Roche Pharma**. I care deeply about making AI tools actually usable for teams — not just technically impressive on paper.
+
+When I'm not writing pipelines, I'm building open-source tools that solve the friction problems nobody bothered to fix.
+
+- 🔭 Currently working on **LLM infrastructure and AI automation at Roche**
+- 🌱 Exploring **self-hosted AI stacks** — Open WebUI, Ollama, local LLMs
+- 🛠 Recently built a **Mattermost ↔ Open WebUI bot** — open source, free to use
+- 🌍 Based in **Germany** 🇩🇪
+- 💬 Ask me about **DevOps, Python automation, LLM pipelines, Docker, CI/CD**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+**DevOps & Cloud**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-</div>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=white)
+
+**AI & LLM**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open%20WebUI-000000?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**Monitoring & Infra**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
-## 📌 Featured Repo
+## 🚀 Featured Projects
 
-<div align="center">
+### 🤖 [Mattermost OWUI Chatbot](https://github.com/ashutoshmaske22/Mattermost-OWUI-chatbot)
+> Connect any Open WebUI model to Mattermost as a real chatbot — DMs, thread following, conversation memory. No plugin. No enterprise license. Pure Python.
 
-[![DevOps Mastery Hub](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshmaske22&repo=devops-mastery&theme=dark&hide_border=true)](https://github.com/ashutoshmaske22/devops-mastery)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=flat)
+![Open WebUI](https://img.shields.io/badge/Open%20WebUI-000000?style=flat&logo=openai&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-0058CC?style=flat&logo=mattermost&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
-</div>
+**The problem:** Our team ran Open WebUI with Llama 3.2 locally. Nobody used it — 4 clicks to reach it. So I connected it directly into Mattermost via WebSocket + REST API.
 
-> 🚀 My complete DevOps reference — notes, cheatsheets & hands-on projects across Linux, Docker, K8s, Terraform, Ansible, CI/CD, Monitoring & Python.
+- DM the bot → private conversation with full memory + `/reset`
+- `@mention` once in a thread → bot follows automatically, no trigger words needed
+- Works with any model: Llama, Mistral, Gemma, DeepSeek
+- 1 Python file · 1 dependency · everything in `.env`
+
+---
+
+### 🐍 [python-owui](https://dev.colpari.com/tools/python-owui)
+> Python wrapper for the Open WebUI API. Provision models, knowledge bases, and groups programmatically. No external dependencies — pure `urllib`.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+- `createOrUpdateGroup` · `createOrUpdateKnowledgeBase` · `createOrUpdateModel`
+- `bootstrap()` — one call creates group + KB + model with access control wired
+- Built and published via GitLab CI as a proper Python package
 
 ---
 
@@ -65,27 +101,26 @@
 
 <div align="center">
 
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshmaske22&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshmaske22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmaske22&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmaske22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88)
 
 </div>
 
 ---
 
-## 🏢 Experience
+## 📫 Let's Connect
 
-```
-🔵 Roche Pharma     │ DevOps Engineer          │ Jul 2025 – Present  │ Pune 🇮🇳
-🟡 Colpari GmbH     │ DevOps & IT Infra Jr Mgr │ Oct 2023 – May 2025 │ Leipzig 🇩🇪
-🟣 Accenture        │ Cloud Infra DevOps        │ Oct 2021 – Nov 2023 │ Pune 🇮🇳
-🟢 Web Beta Pvt Ltd │ Cloud Ops Engineer        │ Nov 2020 – Oct 2021 │ Nagpur 🇮🇳
-```
+I'm always happy to talk about DevOps, self-hosted AI, automation, or open-source projects.
+
+- 💼 [LinkedIn](https://linkedin.com/in/ashutoshmaske)
+- 🐙 [GitHub](https://github.com/ashutoshmaske22)
+- 📧 ashutosh.maske.de@gmail.com
 
 ---
 
 <div align="center">
 
-⭐ **If you find my work useful, drop a star!**
+*Building things that should have existed already.*
 
 </div>
