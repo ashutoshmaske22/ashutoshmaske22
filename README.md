@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there%2C+I'm+Ashutosh+Maske+👋;DevOps+%7C+LLM+Pipelines+%7C+Cloud+Infra" alt="Typing SVG" />
-
 ### DevOps Engineer · Roche · Ex-Colpari GmbH · Ex-Accenture
 
 **Currently building automation, LLM pipelines & cloud-native infra at Roche Pharma 🏥**
